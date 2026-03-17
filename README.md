@@ -24,7 +24,7 @@ We're looking for community input on what to build next! Vote by opening an [iss
 | Blueprint Import via URL/YAML | Import community blueprints directly from a URL or paste YAML — no manual file copying | Planned |
 | Switch Cloning / Templates | Duplicate a switch from the list view three-dot menu. Creates a full copy with "(Copy)" suffix and empty identifier. ([#4](https://github.com/macpit/Home-Assistant-Switch-Manager/issues/4): search & replace entity IDs planned as follow-up) | **v3.0.6** |
 | Backup / Export | Export and import switch configurations as YAML for migration or backup | Planned |
-| Action Testing in Editor | Test-fire actions directly from the editor without pressing the physical switch | Planned |
+| Action Testing in Editor | Test-fire actions directly from the editor without pressing the physical switch | 3.0.7 |
 | Bulk Actions | Enable, disable or delete multiple switches at once | Idea |
 | Blueprint Community Store | A simple index of community blueprints installable with one click | Idea |
 | Visual Blueprint Editor | Create blueprints in the GUI instead of writing YAML by hand | Idea |
